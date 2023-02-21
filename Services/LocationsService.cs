@@ -43,8 +43,11 @@ namespace docdb_dotnet_starter.Services
             // string connectionString = String.Format(settings.connTemplate, secret.Result.user, secret.Result.pass, 
             //                                         settings.clusterEndpoint, settings.clusterEndpoint, settings.readPreference);
 
-            string connectionString = String.Format(settings.connTemplate, "docdb", "docdb123", 
-                                                     settings.clusterEndpoint, settings.clusterEndpoint, settings.readPreference);
+            //string connectionString = String.Format(settings.connTemplate, "docdb", "docdb123", 
+            //                                         settings.clusterEndpoint, settings.clusterEndpoint, settings.readPreference);
+
+            string connectionString = "mongodb://docdb:docdb123@localhost:27017/?readpreference=secondaryPreferred&tlsInvalidHostNameAllowed=true&tlsAllowInvalidCertificates=true";
+            System.Console.WriteLine(connectionString);                                                     
                         
             var settings1 = MongoClientSettings.FromUrl(new MongoUrl(connectionString));
             var client = new MongoClient(settings1);
