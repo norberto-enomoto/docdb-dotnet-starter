@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TndjzYcF4VKPqOvN8YLS731gypmu31RUBnSOwENwmgc3DiKpYZMz0KL5h5LW2vLwf/FkI0XVlr7OhTmmHd1E7g==",
+  "dgSpecHash": "sJH1RBJkhazhsSz447Cuau4xjM6uK5oMQcFALPUVgNHM6YbOGxFRRWnCWNmT4fRiVnQlFdGqAwT0RuFjHixH7g==",
   "success": true,
-  "projectFilePath": "/home/hello/Documents/dev/aws-samples/amazon-documentdb-samples/samples/docdb-dotnet-starter/docdb-dotnet-starter-project.csproj",
+  "projectFilePath": "/home/hello/Documents/dev/dotnetcore/docdb-dotnet-starter/docdb-dotnet-starter-project.csproj",
   "expectedPackageFiles": [
     "/home/hello/.nuget/packages/awssdk.core/3.3.101.1/awssdk.core.3.3.101.1.nupkg.sha512",
     "/home/hello/.nuget/packages/awssdk.secretsmanager/3.3.100.10/awssdk.secretsmanager.3.3.100.10.nupkg.sha512",

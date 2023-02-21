@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hello/Documents/dev/aws-samples/amazon-documentdb-samples/samples/docdb-dotnet-starter/docdb-dotnet-starter-project.csproj": {}
+    "/home/hello/Documents/dev/dotnetcore/docdb-dotnet-starter/docdb-dotnet-starter-project.csproj": {}
   },
   "projects": {
-    "/home/hello/Documents/dev/aws-samples/amazon-documentdb-samples/samples/docdb-dotnet-starter/docdb-dotnet-starter-project.csproj": {
+    "/home/hello/Documents/dev/dotnetcore/docdb-dotnet-starter/docdb-dotnet-starter-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hello/Documents/dev/aws-samples/amazon-documentdb-samples/samples/docdb-dotnet-starter/docdb-dotnet-starter-project.csproj",
+        "projectUniqueName": "/home/hello/Documents/dev/dotnetcore/docdb-dotnet-starter/docdb-dotnet-starter-project.csproj",
         "projectName": "docdb-dotnet-starter-project",
-        "projectPath": "/home/hello/Documents/dev/aws-samples/amazon-documentdb-samples/samples/docdb-dotnet-starter/docdb-dotnet-starter-project.csproj",
+        "projectPath": "/home/hello/Documents/dev/dotnetcore/docdb-dotnet-starter/docdb-dotnet-starter-project.csproj",
         "packagesPath": "/home/hello/.nuget/packages/",
-        "outputPath": "/home/hello/Documents/dev/aws-samples/amazon-documentdb-samples/samples/docdb-dotnet-starter/obj/",
+        "outputPath": "/home/hello/Documents/dev/dotnetcore/docdb-dotnet-starter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hello/.nuget/NuGet/NuGet.Config"
